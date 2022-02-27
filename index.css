@@ -1,0 +1,39 @@
+body {
+    background: #741C0B;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#container {
+    background: #f1f1f1;
+    height: 350px;
+    width: 300px;
+    border-radius: 20px;
+    align-items: center;
+    /* justify-content: center; */
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    margin: 100px auto;
+    padding: 30px;
+    padding-bottom: 65px;
+    background-image: linear-gradient(skyblue 10%, yellow 30%, red 80%)
+}
+
+h1 {
+    background: #1F050C;
+    color: #f1f1f1;
+    text-transform: uppercase;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+
+p {
+    font-size: 18px;
+    font-weight: normal;
+
+}
+
+#calculate {
+    margin: 10px;
+    border-radius: 10px;
+
+}    
